@@ -3,7 +3,7 @@ import sys
 items =list(input())   #초기 입력된 문자열
 str= []  #빈 리스트
 n = int(input())   #문자열길이
-
+# aaa
 for i in range(n):
     val = list(sys.stdin.readline().split())
     if val[0] == 'L':
