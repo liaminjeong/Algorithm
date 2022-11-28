@@ -30,7 +30,7 @@ ch = [[0]*m for _ in range(n)]
 res = -10000
 
 DFS(0,0,0,0)
-print(res)
+print(res) 
 
 
 
