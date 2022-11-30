@@ -20,5 +20,5 @@ while Q:
             board[x][y] = 0
             dis[x][y] = dis[tmp[0]][tmp[1]] +1
             Q.append((x,y))
-            print(dis)
+            #print(dis)
 print(dis[n-1][m-1])
