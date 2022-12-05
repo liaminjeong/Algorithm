@@ -29,5 +29,5 @@ for _ in range(t):
                 cnt+=1
                 DFS(i,j)
 
-print(cnt) #답출력
+    print(cnt) #답출력
     
